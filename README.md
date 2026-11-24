@@ -1,16 +1,18 @@
-## Hi there 👋
+# Samuel Buitrago Alonso
 
-<!--
-**alonsosamuelb/alonsosamuelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack web development student · Sorsele, Sweden**
 
-Here are some ideas to get you started:
+I study web application development at Severo Ochoa in Elche, Spain, and I'm looking for an internship in Sweden. My coursework includes PHP and MySQL applications. I also bring experience coordinating beach emergency response and working in hospitality in Sweden.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected coursework
+
+| Project | Scope |
+| --- | --- |
+| NovaShop | PHP and MySQL storefront with a product catalog, cart, checkout and administration area. |
+| Travel Booking System | PHP and MySQL application for shared trips, seat reservations, user profiles and reviews. |
+
+I can walk through either project in an interview using a local environment and synthetic data.
+
+## Learning goals
+
+I'd like to learn how teams build WordPress sites, review changes, deploy through staging and maintain sites after launch. English (C1), Spanish and Catalan. I'm learning Swedish.
