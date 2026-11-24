@@ -15,4 +15,6 @@ I can walk through either project in an interview using a local environment and 
 
 ## Learning goals
 
-I'd like to learn how teams build WordPress sites, review changes, deploy through staging and maintain sites after launch. English (C1), Spanish and Catalan. I'm learning Swedish.
+I'd like to learn how teams build WordPress sites, review changes, deploy through staging and maintain sites after launch. My [practice roadmap](https://github.com/alonsosamuelb/web-development-labs) covers WordPress, Java and local backup and restore.
+
+**Languages** · English (C1), Spanish and Catalan. I'm learning Swedish.
